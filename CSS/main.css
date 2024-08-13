@@ -1,0 +1,327 @@
+@import url("./variables.css");
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+
+    font-family: var(--title-font);
+
+    background-color: rgb(13 13 40);
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+    margin-right: 1rem;
+
+    list-style-type: none;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--color-font2);
+    font-family: var(--title-font);
+    font-weight: bold;
+
+}
+
+.logo {
+    display: flex;
+    height: 50px;
+}
+
+.logo p {
+    color: var(--color-font2);
+    margin-top: 8%;
+    margin-left: .5rem;
+    font-weight: bold;
+}
+
+.logo img {
+    height: 3rem;
+    width: 3rem;
+
+    margin-left: 1rem;
+
+    transition: 1s;
+}
+
+.logo:hover, .nav-links li:hover {
+    transform: scale(1.2);
+}
+
+header {
+    background-color: var(--background-color);
+    height: 35rem;
+    position: relative;
+
+}
+
+.principal-image {
+    position: relative;
+    width: 100%;
+    height: 35rem;
+    overflow: hidden;
+
+}
+
+.principal-image img {
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    animation: moveBackground 5s infinite;
+}
+
+.header-text {
+    position: absolute;
+    color: aliceblue;
+    top: 30%;
+    left: 10%;
+
+}
+
+.header-text h1 {
+    font-size: 5rem;
+    font-family: var(--title-font);
+    font-weight: bolder;
+}
+
+.header-text h3 {
+    font-weight: bold;
+    font-family: var(--title-font);
+}
+
+.floating-form {
+    position: fixed;
+    bottom: 240px;
+    right: 150px;
+    z-index: 1000;
+    width: 300px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #6c757d;
+}
+.close-btn:hover {
+    color: #000;
+}
+
+/*Inicion Main */
+#carousel-imgs {
+    position: relative;
+    width: 100%;
+    height: 35rem;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.main-p1 {
+    width: 70%;
+    text-align: justify;
+}
+
+.logo2 {
+    text-align: center !important;
+    color: var(--color-font2);
+    margin-top: 8%;
+    margin-left: .5rem;
+    font-weight: bold;
+    background-color: var(--background-color);
+    width: 10rem;
+    border-radius: 20%;
+    transform: translateY(-60px);
+}
+
+.logo2 img {
+    height: 8rem;
+}
+
+.logo2 p {
+    transform: translateY(-15px);
+    text-align:  center !important;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2rem;
+}
+
+.container p {
+    width: 70%;
+    text-align: justify;
+    font-family: var(--title-font);
+}
+
+.enfoque {
+    border-radius: 50%;
+    height: 8rem;
+}
+
+.game-development {
+    height: 8rem;
+}
+
+.innovacion { 
+    height: 11.5rem;
+    width: 9rem;
+    border-radius: 20%;
+}
+
+main h1 {
+    font-family: var(--title-font), sans-serif;
+    font-weight: 350;
+    padding: 0.5rem;
+}
+
+/*Fin Main */
+
+/*Inicio Cursos */
+.cursos h1 {
+    font-family: var(--title-font), sans-serif;
+    font-weight: 350;
+    padding: 0.5rem;
+}
+
+.intro {
+    padding: 2rem;
+    text-align: justify;
+}
+.courses {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 2rem;
+  }
+
+.card {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    text-align: center;
+  }
+.card:hover {
+    transform: scale(1.09);
+    transition: 1s;
+}
+  
+.card img {
+    width: 100%;
+    height: auto;
+  }
+  
+.card-content {
+    padding: 15px;
+  }
+  
+.card-content h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+.card-content p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+.card-content a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #0d6efd;
+    border-radius: 5px;
+  }
+  
+.card-content a:hover {
+    background-color: #0a58ca;
+  }
+
+/*Fin Cursos */
+
+/* Inicio Footer */
+footer {
+    background-color: var(--footer-color);
+    display: flex;
+    height: 9rem;
+    justify-content: space-evenly;
+}
+
+.div-footer-cr img{
+    height: 3rem;
+    width: 3rem;
+
+    margin: 1rem;
+}
+
+.div-footer-cr p{
+    color: #cddcfe;
+    font-size: .8rem;
+}
+
+.div-footer-cr {
+    padding-left: 1rem;
+}
+
+.div-footer-terms {
+    color: #cddcfe;
+    font-size: .8rem;
+}
+
+.div-footer-terms ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: var(--title-font);
+    font-weight: bold;
+}
+
+.div-footer-terms ul li a:hover {
+    text-decoration: underline;
+}
+
+.div-footer-social {
+    color: #cddcfe;
+    font-size: .8rem;
+    
+}
+
+.socials {
+    padding-left: 1rem;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: var(--title-font);
+    font-weight: bold;
+}
+
+.socials:hover {
+    text-decoration: underline;
+}
+/* Fin Footer */
+
+@keyframes moveBackground {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(30px); }
+    100% { transform: translateY(0); }
+}
