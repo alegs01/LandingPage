@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2024-08-14T21:57:13.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="xyR6iuobN_zbPgx_Y2Hh" version="21.5.2" type="device">
+  <diagram name="Página-1" id="CQ8tqpaqa1NNaMwAeL0I">
+    <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-1" value="Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-2" value="Main" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-3" value="Cursos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-4" value="Footer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-9" value="Logo y links principales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-10" value="Imagen, titulo y informacion sobre la empresa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-11" value="Derechos, terminos y redes sociales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="450" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-14" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-15" value="link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-16" value="link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-17" value="link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LhiNepoCC3RPEt5HHZdm-16" target="LhiNepoCC3RPEt5HHZdm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-22" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="175" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-23" value="Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-24" value="Texto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-25" value="Logo, derechos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-26" value="Curso 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-27" value="Curso 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-28" value="Terminos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="460" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-29" value="Redes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="460" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LhiNepoCC3RPEt5HHZdm-30" value="Curso 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="335" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
