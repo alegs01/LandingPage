@@ -5,3 +5,7 @@ function closeForm() {
 function openForm() {
     document.querySelector('.floating-form').style.display = 'block';
 }
+
+function registration() {
+    document.getElementById('inscribete').style.display = 'block';
+}
